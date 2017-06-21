@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ A\ class\ for\ handling\ player\ data\r\n\ player's\ position\ and\ name\ are\ saved\ in\ this\ class.\r\n\ \r\n\ @author\ (Stefan\ Derian\ Hartono)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment2.params=
+comment2.target=int\ getPosition()
+comment2.text=\r\na\ function\ for\ returning\ the\ current\ position\ of\ the\ player\r\n@return\:\ position\ of\ the\ player\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\na\ function\ for\ returning\ the\ name\ of\ the\ player\r\n@return\:\ this.name,\ the\ name\ of\ the\ player\r\n
+comment4.params=
+comment4.target=void\ resetPosition()
+comment4.text=\r\nreset\ player's\ location\ by\ 0\r\n
+comment5.params=dice
+comment5.target=void\ updatePosition(int)
+comment5.text=\r\n\ a\ function\ to\ increment\ or\ decrement\ player\ position\ by\ dice\ parameter\r\n\ @params\:\ dice,\ the\ number\ of\ position\ the\ player\ will\ move\ can\ be\ either\ positive\ or\ negative\ if\ the\ player\ get\ a\ penalthy\ ,if\ addPosition\ is\ true\ then\ the\ position\ will\ be\ incremented\ otherwise\ decremented\r\n
+numComments=6

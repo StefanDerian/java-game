@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dice
+comment1.params=
+comment1.target=Dice()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dice\r\n
+comment2.params=
+comment2.target=int\ rollDice()
+comment2.text=\r\n\ a\ method\ for\ rolling\ a\ dice\ randomly\r\n\ @return\ value\ between\ 1\ to\ 6\r\n
+numComments=3
