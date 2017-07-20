@@ -5,8 +5,8 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: game with java
-PURPOSE OF PROJECT:create terminal application about game 
+PURPOSE OF PROJECT: create terminal game application. With 2 players and each players will be given 2 dices.
 VERSION or DATE: 10th April 2017
-HOW TO START THIS PROJECT: for java assignment 1 in Monash 
+HOW TO START THIS PROJECT: click on game main class
 AUTHORS:Stefan Derian Hartono
 USER INSTRUCTIONS:
